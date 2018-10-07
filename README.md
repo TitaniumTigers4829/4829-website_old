@@ -1,2 +1,13 @@
-# 4829-FRC-Website
-Website code.
+# Contents
+This (hopefully) contains the code of the current website for FRC team 4829.
+
+# Roles
+
+- Zuntue: Project Manager 
+  - Trey: Front-end Manager
+    - Henry: Front-end
+    - David: Front-end
+    - Andrew: Front-end
+  - Joe: Back-end Manager
+    - Aaron: Back-end
+
