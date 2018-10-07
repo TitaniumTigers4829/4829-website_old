@@ -1,7 +1,7 @@
 # Contents
 This (hopefully) contains the code of the current website for FRC team 4829.
 
-# Roles
+# Contributers
 
 - Zuntue: Project Manager 
   - Trey: Front-end Manager
