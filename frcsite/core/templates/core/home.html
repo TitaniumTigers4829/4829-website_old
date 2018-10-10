@@ -1,6 +1,7 @@
 {% load static %}
 <!DOCTYPE html>
 <html lang ="en">
+
 	<head>
     <!-- Meta Info -->
 		<meta charset="utf-8">
@@ -20,7 +21,7 @@
 	</head>
   <body>
     <!-- Header -->
-    <header class="jumbotron justify-content-left mb-0">
+    <header class="jumbotron jumbotron-fluid justify-content-left mb-0">
 
 			<!-- Logo image -->
 			<img src="{% static 'images/mainLogo.png' %}" alt="Titanium Tigers Logo" class="img-fluid">
@@ -57,7 +58,10 @@
     <!-- Main Content -->
 		<main>
 			{% block main %}
-
+			<link rel="stylesheet" href="{% static 'core/css/styles.css' %}" type="text/css">
+			<div>
+				
+			</div>
     	{% endblock %}
 		</main>
 
