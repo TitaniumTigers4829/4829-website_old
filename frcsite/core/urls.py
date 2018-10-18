@@ -1,11 +1,8 @@
-
-
-from django.conf.urls import include, url
+from django.urls import path
 from . import views
 
-# Create your views here.
-
 urlpatterns = [
-    url(r'^$', views.index, name='home'),
+    path('', views.home, name='home'),
+    path('about/', views.about, name='about'),
 
 ]
