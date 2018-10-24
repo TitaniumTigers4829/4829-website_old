@@ -13,3 +13,7 @@ def sponsors(request):
     return render(request, 'core/sponsors.html')
 def timeline(request):
     return render(request, 'core/timeline.html')
+def media(request):
+    return render(request, 'core/media.html')
+def contact(request):
+    return render(request, 'core/contact.html')
